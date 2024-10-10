@@ -1,6 +1,6 @@
 # README
 
-RakeshReddy - A20525389
+Amogh Mahantesh Vastrad - A20588808
 
 ## Overview
 
